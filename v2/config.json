@@ -1,8 +1,8 @@
 {
     "latestAndroidVersion": "2.0.0",
     "latestIosVersion": "2.0.0",
-    "latestAndroidVersionCritical": "3.0.0",
-    "latestIosVersionCritical": "3.0.0",
+    "latestAndroidVersionCritical": "2.0.0",
+    "latestIosVersionCritical": "2.0.0",
     "apiDomain": "hell4.com",
     "staticListPages": [
         "activities/652",

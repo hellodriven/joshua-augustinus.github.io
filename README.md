@@ -3,9 +3,9 @@ https://hellodriven.github.io/mobile-static
 
 For example:
 
-- https://hellodriven.github.io/mobile-static/v1/config.json
-- https://hellodriven.github.io/mobile-static/v1/images/1007.jpg
-- https://hellodriven.github.io/mobile-static/v1/videos/VisionPart1.mp4 (For test usage)
+- https://hellodriven.github.io/mobile-static/v2/config.json
+- https://hellodriven.github.io/mobile-static/v2/images/1007.jpg
+- https://hellodriven.github.io/mobile-static/v2/videos/VisionPart1.mp4 (For test usage)
 
 This allows us to store remote settings files to be consumed by the mobile app.
 

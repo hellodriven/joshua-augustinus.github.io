@@ -54,31 +54,31 @@
     "prefetchIcons": [
         {
             "categoryColor": "#00bfd8",
-            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconPrimary.png"
+            "url": "https://hellodriven.github.io/mobile-static/assets/icons/iconPrimary.png"
         },
         {
             "categoryColor": "#f2384f",
-            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconRed.png"
+            "url": "https://hellodriven.github.io/mobile-static/assets/icons/iconRed.png"
         },
         {
             "categoryColor": "#ff7d37",
-            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconOrange.png"
+            "url": "https://hellodriven.github.io/mobile-static/assets/icons/iconOrange.png"
         },
         {
             "categoryColor": "#f2ba0f",
-            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconYellow.png"
+            "url": "https://hellodriven.github.io/mobile-static/assets/icons/iconYellow.png"
         },
         {
             "categoryColor": "#54b554",
-            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconGreen.png"
+            "url": "https://hellodriven.github.io/mobile-static/assets/icons/iconGreen.png"
         },
         {
             "categoryColor": "#4abaca",
-            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconCyan.png"
+            "url": "https://hellodriven.github.io/mobile-static/assets/icons/iconCyan.png"
         },
         {
             "categoryColor": "#407fe8",
-            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconBlue.png"
+            "url": "https://hellodriven.github.io/mobile-static/assets/icons/iconBlue.png"
         }
     ],
     "chatLoadingMessages": [
@@ -132,19 +132,23 @@
             "source": "https://hellodriven.github.io/mobile-static/assets/lottie/35863-sabio5.json"
         },
         {
-            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/69288-rede-social.json"
+            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/69288-rede-social.json",
+            "scale": 1.3
         },
         {
-            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/29205-two-men-at-a-mobile-phone.json"
+            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/29205-two-men-at-a-mobile-phone.json",
+            "scale": 1.1
         },
         {
             "source": "https://hellodriven.github.io/mobile-static/assets/lottie/thumbs-11.json"
         },
         {
-            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/64198-find-target.json"
+            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/64198-find-target.json",
+            "scale": 1.5
         },
         {
-            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/24277-pick-some-quick.json"
+            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/24277-pick-some-quick.json",
+            "scale": 1.4
         },
         {
             "source": "https://hellodriven.github.io/mobile-static/assets/lottie/69047-vacation.json"
@@ -153,7 +157,12 @@
             "source": "https://hellodriven.github.io/mobile-static/assets/lottie/67986-business-deal.json"
         },
         {
-            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/28840-flying-businessmen-concept.json"
+            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/28840-flying-businessmen-concept.json",
+            "scale": 1.5
+        },
+        {
+            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/18558-chinup-animation.json",
+            "scale": 1.2
         },
         {
             "source": "https://hellodriven.github.io/mobile-static/assets/lottie/71184-cute-panda.json"

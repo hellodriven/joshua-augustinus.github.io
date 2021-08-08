@@ -103,6 +103,31 @@
             "time": 32000
         }
     ],
+    "paywallImages": [
+        {
+            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/67986-business-deal.json",
+            "text": "Dive into what your scores mean in the six domains of resilience"
+        },
+        {
+            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/28840-flying-businessmen-concept.json",
+            "scale": 1.5,
+            "text": "200+ skills, techniques and resources to explore and discover new skills to help you build your resilience each day"
+        },
+        {
+            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/24277-pick-some-quick.json",
+            "scale": 1.4,
+            "text": "Chat anytime when you feel stressed or have something on your mind"
+        },
+        {
+            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/18558-chinup-animation.json",
+            "scale": 1.2,
+            "text": "Stay up to date with how your resilience improves over time"
+        },
+        {
+            "source": "https://hellodriven.github.io/mobile-static/assets/lottie/43792-yoga-se-hi-hoga.json",
+            "text": "Entire library of quick techniques to help you stay calm in stressful situations"
+        }
+    ],
     "thumbsImages": [
         {
             "source": "https://hellodriven.github.io/mobile-static/assets/lottie/thumbs-0.json"
